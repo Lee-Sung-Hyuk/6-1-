@@ -52,5 +52,5 @@ int main()
 	{
 		printf("잘못된 각도입니다.");
 	}
-	
+	return 0;
 }
